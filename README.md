@@ -1,5 +1,5 @@
 # Todo
-A Todo List Application built with React, styled with custom CSS.
+A Todo List Application built with React, styled with CSS.
 
 It Supports adding, completing, deleting tasks, and persists data using LocalStorage
 
